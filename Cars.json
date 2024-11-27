@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Corolla",
+      "type": "Sedan",
+      "price": 40,
+      "image": "https://via.placeholder.com/300x200.png?text=Toyota+Corolla"
+    },
+    {
+      "id": 2,
+      "name": "Honda CR-V",
+      "type": "SUV",
+      "price": 70,
+      "image": "https://via.placeholder.com/300x200.png?text=Honda+CR-V"
+    },
+    {
+      "id": 3,
+      "name": "Tesla Model 3",
+      "type": "Electric",
+      "price": 100,
+      "image": "https://via.placeholder.com/300x200.png?text=Tesla+Model+3"
+    }
+  ]
+  
